@@ -1,0 +1,28 @@
+.product img {
+  height: 100%;
+  max-width: 100%;
+  width: auto;
+}
+.product_category {
+  opacity: 0.5;
+}
+.main_image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid #eee;
+  height: 400px;
+  width: 100%;
+  overflow: hidden;
+}
+.product_title {
+  color: #464545;
+}
+.product_price {
+  color: #3a3a3a;
+  font-weight: bold;
+}
+.product_category {
+  color: black;
+  opacity: 0.5;
+}
